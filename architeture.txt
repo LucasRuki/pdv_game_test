@@ -1,0 +1,45 @@
+# Tabela de Modificadores da Barra de Progresso
+
+M1. Point: +1 ponto / Comum;
+
+M2. Double-Point: +2 pontos / Incomum; 
+    50% de chance de aparecer quando o timer esta abaixo de 1 minuto e 30, e a Barra de Progresso está abaixo de 50%;
+
+M3. Triple-Point: +3 pontos / Raro; 
+    33.3% de chance de aparecer quando o timer esta abaixo de 1 minuto, e a Barra de Progresso está abaixo de 50%;
+
+M4. Debit: -1 ponto / Comum;
+
+M5. Double-Debit: -2 pontos / Incomum; 
+    50% de chance de aparecer quando a Barra de Progresso está acima de 25%;
+
+M6. Triple-Debit: -3 pontos / Incomum; 
+    33.3% de chance de aparecer quando a Barra de Progresso está acima de 50%;
+
+M7. "?" (Joker) / Comum; 
+    Mesma quantidade de chance igual para o spawn de qualquer um dos modificadores acima; 
+    O Joker surge na tela em movimentos aleatórios, sendo clicável; 
+    Gap: 10s;
+
+
+# Tabela de Power-Ups
+O Power-Up é misterioso, sendo revelado apenas na sua aquisição; 
+O Power-Up surge na tela em movimentos aleatórios, sendo clicável; 
+Gap: 20s; 
+
+P1. Double-Chance / Comum; 
+    Apenas Double-Points (porém os Debits permanecem spawnando de forma aleatória);  
+    Efeito: 15s;
+
+P2. Triple-Chance / Incomum;  
+    Apenas Triple-Points (porém os Debits permanecem spawnando de forma aleatória);  
+    Efeito: 15s; 
+
+P3. Wonder-Guard / Raro;
+    Os disparos não colidem contra modificadores negativos;
+    Efeito: 15s; 
+
+
+
+
+

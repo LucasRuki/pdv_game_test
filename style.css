@@ -1,0 +1,21 @@
+@font-face {
+
+    font-family: 'PixelLcd';
+    src: url('src/fonts/pixel_lcd_7.ttf') format('truetype');
+
+}
+
+@font-face {
+
+    font-family: 'Ash';
+    src: url('src/fonts/Ash.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+}
